@@ -87,7 +87,7 @@ src/
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/whitepearl-dental.git
+git clone https://github.com/Ruhanpaco/whitepearl-dental.git
 ```  
 
 2️⃣ **Install dependencies**  
