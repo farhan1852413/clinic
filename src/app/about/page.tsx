@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import EditableImage from "@/app/components/EditableImage";
-import { apiUrl } from "@/lib/api";
+
 
 // ─── Data ────────────────────────────────────────────────────────────────────
 const values = [

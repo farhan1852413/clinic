@@ -4,7 +4,7 @@ import { useState, useRef } from "react";
 import Link from "next/link";
 import { motion, useScroll, useTransform } from "framer-motion";
 import EditableImage from "@/app/components/EditableImage";
-import { apiUrl } from "@/lib/api";
+
 
 // ─── Data ────────────────────────────────────────────────────────────────────
 const categories = [
