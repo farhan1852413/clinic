@@ -7,9 +7,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-
-const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-};
