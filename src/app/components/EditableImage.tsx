@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useState, useRef } from "react";
-import EditableImage from "components/app/components/EditableImage";
+
 
 // ─── Editable Image Component ───────────────────────────────────────────────
 // Shared across all pages so every image on the site can be swapped client-side.
