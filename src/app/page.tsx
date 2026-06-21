@@ -434,7 +434,7 @@ export default function Home() {
             className="font-heading text-4xl lg:text-6xl text-white mb-6 leading-tight"
           >
             Ready to Transform
-            <span className="block text-primary-gold italic">Your Smile?</span>
+            <span className="block text-primary-gold italic">Your  Smile?</span>
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
